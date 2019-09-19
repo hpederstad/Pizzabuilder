@@ -1,4 +1,4 @@
-# Pizzabuilder
+# Pizzabuilder by Frode and Harald
 
 We have one function that handles all the click events. The function is activated when a button with class 'btn-topping' is clicked.
 When a button is clicked we check the id of the clicked button. Based on this id we add/remove the correct topping.
